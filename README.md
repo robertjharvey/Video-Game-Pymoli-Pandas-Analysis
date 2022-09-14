@@ -1,10 +1,6 @@
+### Goals: Use Python and Pandas to load CSV files, clean the files in Jupyter Notebook using Python and Pandas, and analyze data using both languages to determine various data points.
+
 # Heroes-of-Pymoli
-
-## Background
-
-The data dive continues!
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
 ## Heroes of Pymoli
 
@@ -74,15 +70,3 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
-
-
-## Copyright
-
-Data Boot Camp Â© 2018. All Rights Reserved.
